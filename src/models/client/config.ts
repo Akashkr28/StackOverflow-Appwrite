@@ -1,4 +1,4 @@
-import env from "@/env";
+import env from "@/app/env";
 import { Account, Client, Avatars, Databases, Storage } from "appwrite";
 
 const client = new Client()
